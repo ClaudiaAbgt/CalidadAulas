@@ -3,6 +3,5 @@
 int main()
 
 {
-printf("Hola, soy Lara");
-printf("\nY yo soy Dani ");
+printf("Soy un grupo diferente");
 }
